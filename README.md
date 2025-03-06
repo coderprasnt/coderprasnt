@@ -13,16 +13,25 @@ Welcome to my GitHub profile! I'm passionate about technology and constantly exp
 
 ## GitHub Stats
 
-![Prasanna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coderprasnt&show_icons=true&theme=radical)
+![Prasanna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coderprasnt&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderprasnt&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderprasnt&layout=compact&theme=radical&langs_count=10&hide=html,css)
+
+## Contributions
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=coderprasnt&theme=radical)](https://git.io/streak-stats)
+
+## Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=coderprasnt&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Connect with Me
 
 - [Telegram](https://t.me/WitchShopHub)
-- [Personal Website](https://)
+- [Twitter](https://twitter.com/your-twitter-handle)
+- [Personal Website](https://your-website.com)
 
 <!---
 coderprasnt/coderprasnt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
