@@ -13,7 +13,8 @@ Welcome to my GitHub profile! I'm passionate about technology and constantly exp
 
 ## GitHub Stats
 
-![Prasanna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coderprasnt&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Prasanna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coderprasnt&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=prs,issues)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=coderprasnt&theme=radical)
 
 ## Top Languages
 
@@ -29,7 +30,7 @@ Welcome to my GitHub profile! I'm passionate about technology and constantly exp
 
 ## Connect with Me
 
-- [Telegram](https://t.me/WitchShopHub)
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
 - [Twitter](https://twitter.com/your-twitter-handle)
 - [Personal Website](https://your-website.com)
 
