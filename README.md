@@ -13,25 +13,19 @@ Welcome to my GitHub profile! I'm passionate about technology and constantly exp
 
 ## GitHub Stats
 
-![Prasanna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coderprasnt&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=prs,issues)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=coderprasnt&theme=radical)
+![Prasanna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coderprasnt&show_icons=true&theme=radical)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderprasnt&layout=compact&theme=radical&langs_count=10&hide=html,css)
-
-## Contributions
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=coderprasnt&theme=radical)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderprasnt&layout=compact&theme=radical)
 
 ## Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=coderprasnt&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
+- [Telegram](https://t.me/WitchShopHub)
+
 - [Personal Website](https://your-website.com)
 
 <!---
